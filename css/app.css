@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.loginForm{
+    width: 500px;
+    margin-left:25%;
+}
+
+.contentHolder{
+    height:100vh;
+}
+
+.content404{
+    /* padding:30vh; */
+    margin-left:35%;
+    margin-top:20%;
+    position:absolute;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    /* background-color: blue; */
+}
